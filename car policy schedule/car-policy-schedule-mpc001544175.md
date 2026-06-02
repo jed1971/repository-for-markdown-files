@@ -1,6 +1,6 @@
 # Everyday Plus Car Insurance - Policy Schedule
 
-![Autosure Insurance logo](images/autosure-logo.png)
+![Autosure Insurance logo](autosure-logo.png)
 
 **Date:** 17 June 2025  
 **Policy number:** MPC001544175  
